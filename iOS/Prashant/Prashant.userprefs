@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{CEA36591-A661-41A6-B700-92CA6B488050}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Prashant/AppDelegate.cs" Line="37" Column="6" />
+      <File FileName="Prashant/DetailViewController.cs" Line="184" Column="4" />
+      <File FileName="Prashant/RatingCellView.cs" Line="119" Column="44" />
+      <File FileName="Prashant/APLCollectionViewCell.cs" Line="110" Column="33" />
+      <File FileName="Prashant/PopupView.cs" Line="63" Column="1" />
+      <File FileName="Prashant/PhyCollectionView.cs" Line="31" Column="61" />
+      <File FileName="Prashant/FirstViewController.cs" Line="57" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Prashant PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2A844B85-A428-4BBE-B393-E8F713ECE782" />
+</Properties>
