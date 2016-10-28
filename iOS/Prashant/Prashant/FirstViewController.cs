@@ -9,7 +9,7 @@ namespace Prashant
 	{
 		protected FirstViewController(IntPtr handle) : base(handle)
 		{
-			this.Title = "Shop";
+			this.Title = "Locations";
 		}
 
 		public override void ViewDidLoad()

@@ -1,22 +1,17 @@
 ﻿<Properties StartupConfiguration="{CEA36591-A661-41A6-B700-92CA6B488050}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Prashant/DetailViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prashant/FirstViewController.cs">
     <Files>
-      <File FileName="Prashant/DetailViewController.cs" Line="185" Column="23" />
+      <File FileName="Prashant/DetailViewController.cs" Line="60" Column="45" />
       <File FileName="Prashant/APLCollectionViewCell.cs" Line="110" Column="33" />
       <File FileName="Prashant/PopupView.cs" Line="9" Column="2" />
       <File FileName="Prashant/MyTastingViewController.cs" Line="156" Column="74" />
-      <File FileName="Prashant/FirstViewController.cs" Line="71" Column="6" />
+      <File FileName="Prashant/FirstViewController.cs" Line="81" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Prashant" expanded="True">
-            <Node name="Prashant" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="Wines" expanded="True" />
-              <Node name="DetailViewController.cs" selected="True" />
-              <Node name="MyTastingViewController.cs" expanded="True" />
-            </Node>
+            <Node name="WineHangoutz" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -27,5 +22,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Prashant PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2A844B85-A428-4BBE-B393-E8F713ECE782" />
+  <MonoDevelop.Ide.ItemProperties.WineHangoutz PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2A844B85-A428-4BBE-B393-E8F713ECE782" />
 </Properties>
