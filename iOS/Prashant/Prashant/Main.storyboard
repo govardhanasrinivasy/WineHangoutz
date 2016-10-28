@@ -142,12 +142,36 @@
             </objects>
             <point key="canvasLocation" x="2169" y="363"/>
         </scene>
+        <scene sceneID="926">
+            <objects>
+                <tableViewController id="927" sceneMemberID="viewController" customClass="MyTastingViewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="928">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="931" rowHeight="44">
+                                <rect key="frame" x="0.0" y="28" width="600" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="931" id="932">
+                                    <rect key="frame" x="0.0" y="0.0" width="600" height="43.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="927" id="929"/>
+                            <outlet property="delegate" destination="927" id="930"/>
+                        </connections>
+                    </tableView>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="933" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1462" y="1103"/>
+        </scene>
     </scenes>
     <resources>
         <image name="placeholder.jpeg" width="920" height="920"/>
-        <image name="wine0.png" width="80" height="240"/>
-        <image name="wine1.png" width="172" height="240"/>
-        <image name="wine2.png" width="92" height="240"/>
         <image name="Star4.png" width="502" height="93"/>
         <image name="heart_empty.png" width="72" height="65"/>
         <image name="heart_full.png" width="69" height="60"/>
@@ -162,5 +186,24 @@
         <image name="Images/Wineries.jpg" width="1440" height="1200"/>
         <image name="Images/NotUsedYet.jpg" width="1440" height="480"/>
         <image name="Images/Blog.jpg" width="1440" height="1200"/>
+        <image name="Stars/chosen.png" width="200" height="190"/>
+        <image name="Stars/empty.png" width="200" height="190"/>
+        <image name="Stars/filled.png" width="200" height="190"/>
+        <image name="user.png" width="193" height="192"/>
+        <image name="Close.png" width="56" height="56"/>
+        <image name="wine_review.png" width="320" height="320"/>
+        <image name="shop.png" width="512" height="512"/>
+        <image name="taste.png" width="512" height="512"/>
+        <image name="explore.png" width="512" height="512"/>
+        <image name="Wines/wine2.png" width="92" height="240"/>
+        <image name="Wines/wine1.png" width="92" height="240"/>
+        <image name="Wines/wine0.png" width="92" height="240"/>
+        <image name="Wines/wine3.png" width="92" height="240"/>
+        <image name="Wines/wine4.png" width="92" height="240"/>
+        <image name="Wines/wine5.png" width="92" height="240"/>
+        <image name="Wines/wine6.png" width="92" height="240"/>
+        <image name="Wines/wine7.png" width="92" height="240"/>
+        <image name="delete.png" width="80" height="80"/>
+        <image name="edit.png" width="80" height="80"/>
     </resources>
 </document>

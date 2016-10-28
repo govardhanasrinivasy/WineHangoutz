@@ -89,7 +89,7 @@
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.iOS" />
     <Reference Include="PDRating">
-      <HintPath>..\..\..\Downloads\pdreview-2.0.2\lib\ios-unified\PDRating.dll</HintPath>
+      <HintPath>..\..\..\..\..\Downloads\pdreview-2.0.2\lib\ios-unified\PDRating.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -145,6 +145,10 @@
     </Compile>
     <Compile Include="WineInfoTableSource.cs" />
     <Compile Include="RatingCellView.cs" />
+    <Compile Include="MyTastingViewController.cs" />
+    <Compile Include="MyTastingViewController.designer.cs">
+      <DependentUpon>MyTastingViewController.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\placeholder.jpeg" />
@@ -179,6 +183,8 @@
     <BundleResource Include="Wines\wine5.png" />
     <BundleResource Include="Wines\wine6.png" />
     <BundleResource Include="Wines\wine7.png" />
+    <BundleResource Include="Resources\delete.png" />
+    <BundleResource Include="Resources\edit.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>

@@ -53,6 +53,36 @@
 				<integer>9</integer>
 			</dict>
 		</array>
+		<key>927</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>927</string>
+				</array>
+				<key>message</key>
+				<string>“My Tasting View Controller“ is unreachable because it has no entry points, and no identifier for runtime access via -[UIStoryboard instantiateViewControllerWithIdentifier:].</string>
+				<key>type</key>
+				<string>IBUnsupportedConfiguration</string>
+				<key>type-value</key>
+				<integer>9</integer>
+			</dict>
+		</array>
+		<key>931</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>931</string>
+				</array>
+				<key>message</key>
+				<string>Prototype table cells must have reuse identifiers</string>
+				<key>type</key>
+				<string>IBUnsupportedConfiguration</string>
+				<key>type-value</key>
+				<integer>9</integer>
+			</dict>
+		</array>
 	</dict>
 </dict>
 </plist>

@@ -1,14 +1,26 @@
 ﻿<Properties StartupConfiguration="{CEA36591-A661-41A6-B700-92CA6B488050}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prashant/DetailViewController.cs">
     <Files>
-      <File FileName="Prashant/AppDelegate.cs" Line="37" Column="6" />
-      <File FileName="Prashant/DetailViewController.cs" Line="184" Column="4" />
-      <File FileName="Prashant/RatingCellView.cs" Line="119" Column="44" />
+      <File FileName="Prashant/DetailViewController.cs" Line="185" Column="23" />
       <File FileName="Prashant/APLCollectionViewCell.cs" Line="110" Column="33" />
-      <File FileName="Prashant/PopupView.cs" Line="63" Column="1" />
-      <File FileName="Prashant/PhyCollectionView.cs" Line="31" Column="61" />
-      <File FileName="Prashant/FirstViewController.cs" Line="57" Column="50" />
+      <File FileName="Prashant/PopupView.cs" Line="9" Column="2" />
+      <File FileName="Prashant/MyTastingViewController.cs" Line="156" Column="74" />
+      <File FileName="Prashant/FirstViewController.cs" Line="71" Column="6" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prashant" expanded="True">
+            <Node name="Prashant" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Wines" expanded="True" />
+              <Node name="DetailViewController.cs" selected="True" />
+              <Node name="MyTastingViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

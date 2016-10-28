@@ -57,7 +57,7 @@ namespace Prashant
 			nfloat X = (View.Frame.Width - width) / 2;
 			var btlImage = new UIImageView(); //92 * 233
 			btlImage.Frame = new CGRect(X, 90, width, height);
-			btlImage.Image = UIImage.FromFile("wine2.png");
+			btlImage.Image = UIImage.FromFile("Wines/wine2.png");
 			scrollView.AddSubview(btlImage);
 
 			var ratingConfig = new RatingConfig(emptyImage: UIImage.FromBundle("Stars/empty.png"),

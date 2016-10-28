@@ -2,9 +2,9 @@
 # [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.0.1.10/lib/mtouch/mtouch.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/10.0.1.10/lib/mtouch/mtouch.exe \
 	--cache \
-	/Users/ankurdubey/Projects/Prashant/Prashant/obj/iPhoneSimulator/Debug/mtouch-cache \
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/Prashant/Prashant/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \
-	/Users/ankurdubey/Projects/Prashant/Prashant/bin/iPhoneSimulator/Debug/Prashant.app \
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/Prashant/Prashant/bin/iPhoneSimulator/Debug/Prashant.app \
 	--executable \
 	Prashant \
 	--fastdev \
@@ -20,7 +20,7 @@
 	--tls-provider=default \
 	--abi=i386 \
 	--symbollist \
-	/Users/ankurdubey/Projects/Prashant/Prashant/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/Prashant/Prashant/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
 	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -38,4 +38,4 @@
 	/Users/ankurdubey/Downloads/pdreview-2.0.2/lib/ios-unified/PDRating.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	/Users/ankurdubey/Projects/Prashant/Prashant/bin/iPhoneSimulator/Debug//Prashant.exe \
+	/Users/ankurdubey/Projects/WineHangoutz/iOS/Prashant/Prashant/bin/iPhoneSimulator/Debug//Prashant.exe \

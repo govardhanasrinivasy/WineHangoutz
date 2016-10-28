@@ -34,6 +34,11 @@ namespace Prashant
 			btnNew.SetBackgroundImage(new UIImage("Images/New.jpg"), UIControlState.Normal);
 			btnTop.SetBackgroundImage(new UIImage("Images/Top.jpg"), UIControlState.Normal);
 
+			btnMy.TouchUpInside += (sender, e) =>
+			{
+				NavigationController.PushViewController(new MyTastingViewController(), false);
+			};
+
 			View.AddSubview(btnMy);
 			View.AddSubview(btnNew);
 			View.AddSubview(btnTop);
