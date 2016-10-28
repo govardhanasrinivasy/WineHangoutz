@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{19967747-2AC6-49DA-8AE0-0DB0454C4F52}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WineHangoutz/APLCollectionViewCell.cs">
+    <Files>
+      <File FileName="WineHangoutz/AppDelegate.cs" Line="14" Column="34" />
+      <File FileName="../../../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/10.0.1.10/lib/mono/2.1/Xamarin.iOS.Common.targets" Line="838" Column="11" />
+      <File FileName="WineHangoutz/Info.plist" />
+      <File FileName="WineHangoutz/APLCollectionViewCell.cs" Line="16" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WineHangoutz" expanded="True">
+            <Node name="WineHangoutz" expanded="True">
+              <Node name="APLCollectionViewCell.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WineHangoutz PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2A844B85-A428-4BBE-B393-E8F713ECE782" />
+</Properties>
