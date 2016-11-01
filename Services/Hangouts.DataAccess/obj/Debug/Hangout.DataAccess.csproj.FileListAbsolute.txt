@@ -1,0 +1,4 @@
+C:\Workspace\Hangout\Hangouts.DataAccess\bin\Debug\Hangouts.DataAccess.dll
+C:\Workspace\Hangout\Hangouts.DataAccess\bin\Debug\Hangouts.DataAccess.pdb
+C:\Workspace\Hangout\Hangouts.DataAccess\obj\Debug\Hangouts.DataAccess.dll
+C:\Workspace\Hangout\Hangouts.DataAccess\obj\Debug\Hangouts.DataAccess.pdb
